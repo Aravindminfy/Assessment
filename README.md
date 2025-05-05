@@ -62,7 +62,7 @@ This is to lean about git branch and git merge .
 # Screenshot of the successful pull request and merge :-
 ![image](https://github.com/user-attachments/assets/efb36682-b570-45c6-8bb4-d0d6c8eacd80)
 
-#Screenshot for Branch graph :-
+# Screenshot for Branch graph :-
 ![image](https://github.com/user-attachments/assets/466b3b89-922e-4a2b-95fc-baa61b61b210)
 
 
