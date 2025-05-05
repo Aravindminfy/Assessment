@@ -56,3 +56,5 @@ Date:   Mon May 5 15:00:05 2025 +0530
 5 . Calling the function and printing the factorial of the number to the end user. Commited as "Showing end result to the user" . <br>
 6 . Finally to understand the code commenting the code . Commited as " Adding command to the code".<br>
 
+# Creating new branch :-
+This is to lean about git branch and git merge .
